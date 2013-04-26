@@ -1,0 +1,588 @@
+Pinlist
+
+Exported from robot.sch at 3/4/2013 2:44:27 PM
+
+EAGLE Version 6.3.0 Copyright (c) 1988-2012 CadSoft
+
+Part     Pad      Pin        Dir      Net
+
+C1       1        1          pas      N$5
+         2        2          pas      N$6
+
+C2       1        1          pas      N$3
+         2        2          pas      N$4
+
+C3       A        +          pas      N$1
+         C        -          pas      GND
+
+C4       1        1          pas      VDD
+         2        2          pas      GND
+
+C5       1        1          pas      VDD
+         2        2          pas      GND
+
+C6       1        1          pas      VDD
+         2        2          pas      GND
+
+C7       1        1          pas      VCC
+         2        2          pas      GND
+
+C8       1        1          pas      VDD
+         2        2          pas      GND
+
+C9       1        1          pas      VDD
+         2        2          pas      GND
+
+C10      1        1          pas      VDD
+         2        2          pas      GND
+
+C11      1        1          pas      +12V
+         2        2          pas      GND
+
+C12      1        1          pas      VDD
+         2        2          pas      GND
+
+C13      1        1          pas      N$9
+         2        2          pas      GND
+
+C14      1        1          pas      N$8
+         2        2          pas      GND
+
+C15      1        1          pas      N$10
+         2        2          pas      GND
+
+C16      1        1          pas      N$13
+         2        2          pas      N$14
+
+C17      1        1          pas      N$11
+         2        2          pas      N$12
+
+C18      1        1          pas      +12V
+         2        2          pas      GND
+
+C19      1        1          pas      N$17
+         2        2          pas      N$18
+
+C20      1        1          pas      N$15
+         2        2          pas      N$16
+
+C21      1        1          pas      +12V
+         2        2          pas      GND
+
+C22      1        1          pas      N$21
+         2        2          pas      N$22
+
+C23      1        1          pas      N$19
+         2        2          pas      N$20
+
+C24      1        1          pas      +12V
+         2        2          pas      GND
+
+C25      1        1          pas      N$25
+         2        2          pas      N$26
+
+C26      1        1          pas      N$23
+         2        2          pas      N$24
+
+C27      1        1          pas      +12V
+         2        2          pas      GND
+
+C28      1        1          pas      N$29
+         2        2          pas      N$30
+
+C29      1        1          pas      N$27
+         2        2          pas      N$28
+
+C30      1        1          pas      +12V
+         2        2          pas      GND
+
+C31      1        1          pas      N$33
+         2        2          pas      N$34
+
+C32      1        1          pas      N$31
+         2        2          pas      N$32
+
+C33      1        1          pas      +12V
+         2        2          pas      GND
+
+C34      1        1          pas      N$37
+         2        2          pas      N$38
+
+C35      1        1          pas      N$35
+         2        2          pas      N$36
+
+C36      1        1          pas      +12V
+         2        2          pas      GND
+
+C37      1        1          pas      N$41
+         2        2          pas      N$42
+
+C38      1        1          pas      N$39
+         2        2          pas      N$40
+
+C39      1        1          pas      +12V
+         2        2          pas      GND
+
+C40      1        1          pas      N$45
+         2        2          pas      N$46
+
+C41      1        1          pas      N$43
+         2        2          pas      N$44
+
+C42      1        1          pas      +12V
+         2        2          pas      GND
+
+C43      1        1          pas      N$49
+         2        2          pas      N$50
+
+C44      1        1          pas      N$47
+         2        2          pas      N$48
+
+C45      1        1          pas      +12V
+         2        2          pas      GND
+
+C46      1        1          pas      N$53
+         2        2          pas      N$54
+
+C47      1        1          pas      N$51
+         2        2          pas      N$52
+
+C48      1        1          pas      +12V
+         2        2          pas      GND
+
+C49      1        1          pas      N$55
+         2        2          pas      N$56
+
+C50      1        1          pas      N$2
+         2        2          pas      N$7
+
+C51      1        1          pas      +12V
+         2        2          pas      GND
+
+C52      1        1          pas      N$59
+         2        2          pas      N$60
+
+C53      1        1          pas      N$57
+         2        2          pas      N$58
+
+C54      1        1          pas      +12V
+         2        2          pas      GND
+
+C55      1        1          pas      N$62
+         2        2          pas      GND
+
+IC1      1        BOOTSTRAP1 in       N$4
+         2        OUTPUT1    out      N$3
+         3        DIRECTION  in       LMD1
+         4        BREAK      in       GND
+         5        PWM        in       VDD
+         6        VS         pwr      +12V
+         7        GND        pwr      GND
+         8        SENSE      out      GND
+         9        THERMAL    out      TH_LMD1
+         10       OUTPUT2    out      N$6
+         11       BOOTSTRAP2 in       N$5
+
+IC2      1        BOOTSTRAP1 in       N$12
+         2        OUTPUT1    out      N$11
+         3        DIRECTION  in       LMD2
+         4        BREAK      in       GND
+         5        PWM        in       VDD
+         6        VS         pwr      +12V
+         7        GND        pwr      GND
+         8        SENSE      out      GND
+         9        THERMAL    out      TH_LMD2
+         10       OUTPUT2    out      N$14
+         11       BOOTSTRAP2 in       N$13
+
+IC3      1        BOOTSTRAP1 in       N$16
+         2        OUTPUT1    out      N$15
+         3        DIRECTION  in       LMD5
+         4        BREAK      in       GND
+         5        PWM        in       VDD
+         6        VS         pwr      +12V
+         7        GND        pwr      GND
+         8        SENSE      out      GND
+         9        THERMAL    out      TH_LMD5
+         10       OUTPUT2    out      N$18
+         11       BOOTSTRAP2 in       N$17
+
+IC4      1        BOOTSTRAP1 in       N$20
+         2        OUTPUT1    out      N$19
+         3        DIRECTION  in       LMD6
+         4        BREAK      in       GND
+         5        PWM        in       VDD
+         6        VS         pwr      +12V
+         7        GND        pwr      GND
+         8        SENSE      out      GND
+         9        THERMAL    out      TH_LMD6
+         10       OUTPUT2    out      N$22
+         11       BOOTSTRAP2 in       N$21
+
+IC5      1        BOOTSTRAP1 in       N$24
+         2        OUTPUT1    out      N$23
+         3        DIRECTION  in       LMD3
+         4        BREAK      in       GND
+         5        PWM        in       VDD
+         6        VS         pwr      +12V
+         7        GND        pwr      GND
+         8        SENSE      out      GND
+         9        THERMAL    out      TH_LMD3
+         10       OUTPUT2    out      N$26
+         11       BOOTSTRAP2 in       N$25
+
+IC6      1        BOOTSTRAP1 in       N$28
+         2        OUTPUT1    out      N$27
+         3        DIRECTION  in       LMD4
+         4        BREAK      in       GND
+         5        PWM        in       VDD
+         6        VS         pwr      +12V
+         7        GND        pwr      GND
+         8        SENSE      out      GND
+         9        THERMAL    out      TH_LMD4
+         10       OUTPUT2    out      N$30
+         11       BOOTSTRAP2 in       N$29
+
+IC7      1        BOOTSTRAP1 in       N$32
+         2        OUTPUT1    out      N$31
+         3        DIRECTION  in       LMD7
+         4        BREAK      in       GND
+         5        PWM        in       VDD
+         6        VS         pwr      +12V
+         7        GND        pwr      GND
+         8        SENSE      out      GND
+         9        THERMAL    out      TH_LMD7
+         10       OUTPUT2    out      N$34
+         11       BOOTSTRAP2 in       N$33
+
+IC8      1        BOOTSTRAP1 in       N$36
+         2        OUTPUT1    out      N$35
+         3        DIRECTION  in       LMD8
+         4        BREAK      in       GND
+         5        PWM        in       VDD
+         6        VS         pwr      +12V
+         7        GND        pwr      GND
+         8        SENSE      out      GND
+         9        THERMAL    out      TH_LMD8
+         10       OUTPUT2    out      N$38
+         11       BOOTSTRAP2 in       N$37
+
+IC9      1        BOOTSTRAP1 in       N$40
+         2        OUTPUT1    out      N$39
+         3        DIRECTION  in       LMD9
+         4        BREAK      in       GND
+         5        PWM        in       VDD
+         6        VS         pwr      +12V
+         7        GND        pwr      GND
+         8        SENSE      out      GND
+         9        THERMAL    out      TH_LMD9
+         10       OUTPUT2    out      N$42
+         11       BOOTSTRAP2 in       N$41
+
+IC10     1        BOOTSTRAP1 in       N$44
+         2        OUTPUT1    out      N$43
+         3        DIRECTION  in       LMD10
+         4        BREAK      in       GND
+         5        PWM        in       VDD
+         6        VS         pwr      +12V
+         7        GND        pwr      GND
+         8        SENSE      out      GND
+         9        THERMAL    out      TH_LMD10
+         10       OUTPUT2    out      N$46
+         11       BOOTSTRAP2 in       N$45
+
+IC11     1        BOOTSTRAP1 in       N$48
+         2        OUTPUT1    out      N$47
+         3        DIRECTION  in       LMD11
+         4        BREAK      in       GND
+         5        PWM        in       VDD
+         6        VS         pwr      +12V
+         7        GND        pwr      GND
+         8        SENSE      out      GND
+         9        THERMAL    out      TH_LMD11
+         10       OUTPUT2    out      N$50
+         11       BOOTSTRAP2 in       N$49
+
+IC12     1        BOOTSTRAP1 in       N$52
+         2        OUTPUT1    out      N$51
+         3        DIRECTION  in       LMD12
+         4        BREAK      in       GND
+         5        PWM        in       VDD
+         6        VS         pwr      +12V
+         7        GND        pwr      GND
+         8        SENSE      out      GND
+         9        THERMAL    out      TH_LMD12
+         10       OUTPUT2    out      N$54
+         11       BOOTSTRAP2 in       N$53
+
+IC13     1        BOOTSTRAP1 in       N$7
+         2        OUTPUT1    out      N$2
+         3        DIRECTION  in       LMD13
+         4        BREAK      in       GND
+         5        PWM        in       VDD
+         6        VS         pwr      +12V
+         7        GND        pwr      GND
+         8        SENSE      out      GND
+         9        THERMAL    out      TH_LMD13
+         10       OUTPUT2    out      N$56
+         11       BOOTSTRAP2 in       N$55
+
+IC14     1        BOOTSTRAP1 in       N$58
+         2        OUTPUT1    out      N$57
+         3        DIRECTION  in       LMD14
+         4        BREAK      in       GND
+         5        PWM        in       VDD
+         6        VS         pwr      +12V
+         7        GND        pwr      GND
+         8        SENSE      out      GND
+         9        THERMAL    out      TH_LMD14
+         10       OUTPUT2    out      N$60
+         11       BOOTSTRAP2 in       N$59
+
+J1       1        1          pas      GND
+         2        2          pas      VDD
+
+J2       1        1          pas      N$11
+         2        2          pas      N$14
+
+J3       1        1          pas      N$15
+         2        2          pas      N$18
+
+J4       1        1          pas      N$19
+         2        2          pas      N$22
+
+J5       1        1          pas      N$23
+         2        2          pas      N$26
+
+J6       1        1          pas      N$27
+         2        2          pas      N$30
+
+J7       1        1          pas      N$31
+         2        2          pas      N$34
+
+J8       1        1          pas      N$35
+         2        2          pas      N$38
+
+J9       1        1          pas      N$39
+         2        2          pas      N$42
+
+J10      1        1          pas      N$43
+         2        2          pas      N$46
+
+J11      1        1          pas      N$47
+         2        2          pas      N$50
+
+J12      1        1          pas      GND
+         2        2          pas      +12V
+
+J13      1        1          pas      N$3
+         2        2          pas      N$6
+
+J14      1        1          pas      N$51
+         2        2          pas      N$54
+
+J15      1        1          pas      N$2
+         2        2          pas      N$56
+
+J16      1        1          pas      N$57
+         2        2          pas      N$60
+
+J17      1        1          pas      GND
+         2        2          pas      +12V
+
+J18      1        1          pas      GND
+         2        2          pas      +12V1
+
+J19      1        1          pas      GND
+         2        2          pas      TRANSFORMER_IN
+
+J20      1        1          pas      GND
+         2        2          pas      +12V
+
+JP1      1        1          pas      !MCLR
+         2        2          pas      VDD
+         3        3          pas      GND
+         4        4          pas      PROG_4
+         5        5          pas      PROG_5
+
+JP2      1        1          pas      N$62
+         2        2          pas      N$61
+
+R1       1        1          pas      MPU_SCL
+         2        2          pas      VDD
+
+R2       1        1          pas      MPU_SDA
+         2        2          pas      VDD
+
+R3       1        1          pas      +12V
+         2        2          pas      BAT_MON_1
+
+R4       1        1          pas      GND
+         2        2          pas      BAT_MON_1
+
+R5       1        1          pas      BAT_MON_2
+         2        2          pas      +12V1
+
+R6       1        1          pas      BAT_MON_2
+         2        2          pas      GND
+
+R7       1        1          pas      N$61
+         2        2          pas      VDD
+
+R8       1        1          pas      !MCLR
+         2        2          pas      N$61
+
+R9       1        1          pas      TRANSFORMER_IN
+         2        2          pas      TRANS_OUT_MON
+
+R10      1        1          pas      GND
+         2        2          pas      TRANS_OUT_MON
+
+R11      1        1          pas      BB_SDA
+         2        2          pas      VDD
+
+R12      1        1          pas      BB_SCL
+         2        2          pas      VDD
+
+R13      1        1          pas      N$66
+         2        2          pas      N$68
+
+R14      1        1          pas      N$67
+         2        2          pas      N$68
+
+R15      1        1          pas      N$63
+         2        2          pas      VDD
+
+SV1      1        1          pas      N$66
+         2        2          pas      N$67
+         3        3          pas      N$68
+         4        4          pas      GND
+
+U$1      1        RG15       io                *** unconnected ***
+         2        VDD1       pwr      VDD
+         3        RE5        io       LMD1
+         4        RE6        io       LMD13
+         5        RE7        io       LMD14
+         6        RC1        io       TH_LMD1
+         7        RC2        io       TH_LMD2
+         8        RC3        io       TH_LMD3
+         9        RC4        io       TH_LMD4
+         10       RG6        io       TH_LMD5
+         11       RG7        io       TH_LMD6
+         12       RG8        io       TH_LMD7
+         13       !MCLR      io       !MCLR
+         14       RG9        io       TH_LMD8
+         15       VSS2       pwr      GND
+         16       VDD2       pwr      VDD
+         17       RA0        in       TH_LMD9
+         18       RE8        io       TH_LMD10
+         19       RE9        io       TH_LMD11
+         20       RB5        io       TH_LMD12
+         21       RB4        io       TH_LMD13
+         22       RB3        io       TH_LMD14
+         23       RB2        io                *** unconnected ***
+         24       RB1        io                *** unconnected ***
+         25       RB0        io       PROG_4
+         26       RB6        io       PROG_5
+         27       RB7        io                *** unconnected ***
+         28       RA9        io                *** unconnected ***
+         29       RA10       io                *** unconnected ***
+         30       AVDD       pwr      VCC
+         31       AVSS       pwr      GND
+         32       RB8        io                *** unconnected ***
+         33       RB9        io                *** unconnected ***
+         34       RB10       io                *** unconnected ***
+         35       RB11       io                *** unconnected ***
+         36       VSS3       pwr      GND
+         37       VDD3       pwr      VDD
+         38       RA1        in                *** unconnected ***
+         39       RF13       io                *** unconnected ***
+         40       RF12       io       BAT_MON_1
+         41       RB12       io       BAT_MON_2
+         42       RB13       io       TRANS_OUT_MON
+         43       RB14       io                *** unconnected ***
+         44       RB15       io                *** unconnected ***
+         45       VSS4       pwr      GND
+         46       VDD4       pwr      VDD
+         47       RD14       io                *** unconnected ***
+         48       RD15       io                *** unconnected ***
+         49       RF4        io                *** unconnected ***
+         50       RF5        io                *** unconnected ***
+         51       RF3        io                *** unconnected ***
+         52       RF2        io                *** unconnected ***
+         53       RF8        io                *** unconnected ***
+         54       RF7        io       MPU_FSYNC
+         55       RF6        io       MPU_INT
+         56       RG3        io       MPU_SDA
+         57       RG2        io       MPU_SCL
+         58       RA2        io       BB_SCL
+         59       RA3        io       BB_SDA
+         60       RA4        in                *** unconnected ***
+         61       RA5        out               *** unconnected ***
+         62       VDD5       pwr      VDD
+         63       RC12       io                *** unconnected ***
+         64       RC15       io                *** unconnected ***
+         65       VSS5       pwr      GND
+         66       RA14       io                *** unconnected ***
+         67       RA15       io                *** unconnected ***
+         68       RD8        io                *** unconnected ***
+         69       RD9        io                *** unconnected ***
+         70       RD10       io                *** unconnected ***
+         71       RD11       io                *** unconnected ***
+         72       RD0        io                *** unconnected ***
+         73       RC13       io                *** unconnected ***
+         74       RC14       io                *** unconnected ***
+         75       VSS1       pwr      GND
+         76       RD1        io                *** unconnected ***
+         77       RD2        io                *** unconnected ***
+         78       RD3        io                *** unconnected ***
+         79       RD12       io                *** unconnected ***
+         80       RD13       io                *** unconnected ***
+         81       RD4        io       LMD12
+         82       RD5        io       LMD11
+         83       RD6        io       LMD10
+         84       RD7        io       LMD9
+         85       VCAP       pwr      N$1
+         86       VDD        pas      VDD
+         87       RF0        io                *** unconnected ***
+         88       RF1        io                *** unconnected ***
+         89       RG1        io                *** unconnected ***
+         90       RG0        io                *** unconnected ***
+         91       RA6        io                *** unconnected ***
+         92       RA7        io                *** unconnected ***
+         93       RE0        io       LMD8
+         94       RE1        io       LMD7
+         95       RG14       io                *** unconnected ***
+         96       RG12       io       LMD6
+         97       RG13       io       LMD5
+         98       RE2        io       LMD4
+         99       RE3        io       LMD3
+         100      RE4        io       LMD2
+
+U$2      P$1      1          pas      VDD
+         P$2      2          pas      VCC
+
+U$17     1        VREF1      io       N$68
+         2        SCL1       io       N$67
+         3        SDA1       io       N$66
+         4        GND        io       GND
+         5        SDA2       io       BB_SDA
+         6        SCL2       io       BB_SCL
+         7        VREF2      io       N$63
+         8        EN         io       N$63
+
+U1       1        CLKIN      io       GND
+         6        AUXDA      io                *** unconnected ***
+         7        AUXCL      io                *** unconnected ***
+         8        CS         io       N$10
+         9        AD0/SDO    io       GND
+         10       REGOUT     io       N$9
+         11       FSYNC      io       MPU_FSYNC
+         12       INT        io       MPU_INT
+         13       VDD        io       VDD
+         18       GND        io       GND
+         20       CPOUT      io       N$8
+         22       CLKOUT     io                *** unconnected ***
+         23       SCL/SCLK   io       MPU_SCL
+         24       SDA/SDI    io       MPU_SDA
+

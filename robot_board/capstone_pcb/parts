@@ -1,0 +1,121 @@
+Partlist
+
+Exported from robot.brd at 3/5/2013 10:22:49 AM
+
+EAGLE Version 6.3.0 Copyright (c) 1988-2012 CadSoft
+
+Assembly variant: 
+
+Part     Value          Package        Library                Position (inch)       Orientation
+
+C1       10nF           0402-CAP       SparkFun-Capacitors    (6 3.2)               R90
+C2       10nF           0402-CAP       SparkFun-Capacitors    (6 3.8)               R90
+C3       10uF           EIA3216        SparkFun-Capacitors    (1.275 3.65)          R90
+C4       0.1uF          0402-CAP       SparkFun-Capacitors    (1.4 3.65)            R270
+C5       0.1uF          0402-CAP       SparkFun-Capacitors    (1.85 4.05)           R90
+C6       0.1uF          0402-CAP       SparkFun-Capacitors    (1.85 4.35)           R270
+C7       0.1uF          0402-CAP       SparkFun-Capacitors    (1.6 4.75)            R90
+C8       0.1uF          0402-CAP       SparkFun-Capacitors    (1.425 4.75)          R90
+C9       0.1uF          0402-CAP       SparkFun-Capacitors    (1.25 4.75)           R90
+C10      0.1uF          0402-CAP       SparkFun-Capacitors    (0.95 4.1)            R270
+C11      10uF           1206           SparkFun-Capacitors    (6 3.45)              R270
+C12      0.1uF          0402-CAP       SparkFun-Capacitors    (0.65 4.35)           R180
+C13      0.1uF          0402-CAP       SparkFun-Capacitors    (0.95 4.55)           R180
+C14      2.2nF          0402-CAP       SparkFun-Capacitors    (0.45 4.55)           R180
+C15      10nF           0402-CAP       SparkFun-Capacitors    (0.7 4.7)             R180
+C16      10nF           0402-CAP       SparkFun-Capacitors    (4.5 3.2)             R90
+C17      10nF           0402-CAP       SparkFun-Capacitors    (4.5 3.8)             R90
+C18      10uF           1206           SparkFun-Capacitors    (6 1.45)              R270
+C19      10nF           0402-CAP       SparkFun-Capacitors    (6 2.2)               R90
+C20      10nF           0402-CAP       SparkFun-Capacitors    (6 2.8)               R90
+C21      10uF           1206           SparkFun-Capacitors    (2.5 1.55)            R90
+C22      10nF           0402-CAP       SparkFun-Capacitors    (4.5 2.2)             R90
+C23      10nF           0402-CAP       SparkFun-Capacitors    (4.5 2.8)             R90
+C24      10uF           1206           SparkFun-Capacitors    (4.5 4.45)            R270
+C25      10nF           0402-CAP       SparkFun-Capacitors    (6 1.2)               R90
+C26      10nF           0402-CAP       SparkFun-Capacitors    (6 1.8)               R90
+C27      10uF           1206           SparkFun-Capacitors    (6 4.45)              R270
+C28      10nF           0402-CAP       SparkFun-Capacitors    (4.5 1.2)             R90
+C29      10nF           0402-CAP       SparkFun-Capacitors    (4.5 1.8)             R90
+C30      10uF           1206           SparkFun-Capacitors    (2.5 0.55)            R90
+C31      10nF           0402-CAP       SparkFun-Capacitors    (6 0.2)               R90
+C32      10nF           0402-CAP       SparkFun-Capacitors    (6 0.8)               R90
+C33      10uF           1206           SparkFun-Capacitors    (4.5 3.45)            R270
+C34      10nF           0402-CAP       SparkFun-Capacitors    (4.5 0.2)             R90
+C35      10nF           0402-CAP       SparkFun-Capacitors    (4.5 0.8)             R90
+C36      10uF           1206           SparkFun-Capacitors    (4.5 1.45)            R270
+C37      10nF           0402-CAP       SparkFun-Capacitors    (2.5 1.8)             R270
+C38      10nF           0402-CAP       SparkFun-Capacitors    (2.5 1.2)             R270
+C39      10uF           1206           SparkFun-Capacitors    (6 2.45)              R270
+C40      10nF           0402-CAP       SparkFun-Capacitors    (2.5 0.8)             R270
+C41      10nF           0402-CAP       SparkFun-Capacitors    (2.5 0.2)             R270
+C42      10uF           1206           SparkFun-Capacitors    (6 0.45)              R270
+C43      10nF           0402-CAP       SparkFun-Capacitors    (1.25 0.8)            R270
+C44      10nF           0402-CAP       SparkFun-Capacitors    (1.25 0.2)            R270
+C45      10uF           1206           SparkFun-Capacitors    (1.25 0.55)           R90
+C46      10nF           0402-CAP       SparkFun-Capacitors    (1.25 1.8)            R270
+C47      10nF           0402-CAP       SparkFun-Capacitors    (1.25 1.2)            R270
+C48      10uF           1206           SparkFun-Capacitors    (1.25 1.55)           R90
+C49      10nF           0402-CAP       SparkFun-Capacitors    (4.5 4.2)             R90
+C50      10nF           0402-CAP       SparkFun-Capacitors    (4.5 4.8)             R90
+C51      10uF           1206           SparkFun-Capacitors    (4.5 0.45)            R270
+C52      10nF           0402-CAP       SparkFun-Capacitors    (6 4.2)               R90
+C53      10nF           0402-CAP       SparkFun-Capacitors    (6 4.8)               R90
+C54      10uF           1206           SparkFun-Capacitors    (4.5 2.45)            R270
+C55                     C0603          adafruit               (2.585 4.395)         R90
+CPU1                    TQFP100-14X14  microchip              (1.4 4.25)            R90
+I1       FB             FB             adafruit               (0.5 4.85)            R0
+IC1      LM18200T       TO-220-11      national-semiconductor (6.5 3.5)             R270
+IC2      LM18200T       TO-220-11      national-semiconductor (5 3.5)               R270
+IC3      LM18200T       TO-220-11      national-semiconductor (6.5 2.5)             R270
+IC4      LM18200T       TO-220-11      national-semiconductor (5 2.5)               R270
+IC5      LM18200T       TO-220-11      national-semiconductor (6.5 1.5)             R270
+IC6      LM18200T       TO-220-11      national-semiconductor (5 1.5)               R270
+IC7      LM18200T       TO-220-11      national-semiconductor (6.5 0.5)             R270
+IC8      LM18200T       TO-220-11      national-semiconductor (5 0.5)               R270
+IC9      LM18200T       TO-220-11      national-semiconductor (2 1.5)               R90
+IC10     LM18200T       TO-220-11      national-semiconductor (2 0.5)               R90
+IC11     LM18200T       TO-220-11      national-semiconductor (0.75 0.5)            R90
+IC12     LM18200T       TO-220-11      national-semiconductor (0.75 1.5)            R90
+IC13     LM18200T       TO-220-11      national-semiconductor (5 4.5)               R270
+IC14     LM18200T       TO-220-11      national-semiconductor (6.5 4.5)             R270
+J1       1X2-3.5MM      1X2-3.5MM      adafruit               (0.15 4.8)            R270
+J2       1X2-3.5MM      1X2-3.5MM      adafruit               (7 3.25)              R90
+J3       1X2-3.5MM      1X2-3.5MM      adafruit               (7 2.75)              R90
+J4       1X2-3.5MM      1X2-3.5MM      adafruit               (7 2.25)              R90
+J5       1X2-3.5MM      1X2-3.5MM      adafruit               (7 1.75)              R90
+J6       1X2-3.5MM      1X2-3.5MM      adafruit               (7 1.25)              R90
+J7       1X2-3.5MM      1X2-3.5MM      adafruit               (7 0.75)              R90
+J8       1X2-3.5MM      1X2-3.5MM      adafruit               (7 0.25)              R90
+J9       1X2-3.5MM      1X2-3.5MM      adafruit               (0.25 1.25)           R270
+J10      1X2-3.5MM      1X2-3.5MM      adafruit               (0.25 0.25)           R270
+J11      1X2-3.5MM      1X2-3.5MM      adafruit               (0.25 0.75)           R270
+J12      1X2-3.5MM      1X2-3.5MM      adafruit               (0.25 2.8)            R270
+J13      1X2-3.5MM      1X2-3.5MM      adafruit               (7 3.75)              R90
+J14      1X2-3.5MM      1X2-3.5MM      adafruit               (0.25 1.75)           R270
+J15      1X2-3.5MM      1X2-3.5MM      adafruit               (7 4.25)              R90
+J16      1X2-3.5MM      1X2-3.5MM      adafruit               (7 4.75)              R90
+J17      1X2-3.5MM      1X2-3.5MM      adafruit               (0.25 2.2)            R270
+J18      1X2-3.5MM      1X2-3.5MM      adafruit               (0.25 3.1)            R270
+J19      1X2-3.5MM      1X2-3.5MM      adafruit               (0.25 3.4)            R270
+J20      1X2-3.5MM      1X2-3.5MM      adafruit               (0.25 2.5)            R270
+JP1                     MA05-1         con-lstb               (2.3 4.65)            R90
+JP2                     JP1            jumper                 (2.535 4.255)         R90
+R1                      0603-RES       SparkFun-Passives      (0.85 4.4)            R270
+R2                      0603-RES       SparkFun-Passives      (0.95 4.4)            R270
+R3                      R0603          adafruit               (0.5 2.85)            R0
+R4                      R0603          adafruit               (0.65 2.85)           R180
+R5                      R0603          adafruit               (0.5 3.15)            R180
+R6                      R0603          adafruit               (0.65 3.15)           R0
+R7                      R0603          adafruit               (2.445 4.395)         R90
+R8                      R0603          adafruit               (2.35 4.255)          R0
+R9                      R0603          adafruit               (0.5 3.45)            R0
+R10                     R0603          adafruit               (0.65 3.45)           R180
+R11                     R0603          adafruit               (0.75 4)              R270
+R12                     R0603          adafruit               (0.85 4.25)           R90
+R13                     R0603          adafruit               (0.35 4.25)           R90
+R14                     R0603          adafruit               (0.45 4.25)           R90
+R15                     R0603          adafruit               (0.75 4.25)           R90
+SV1                     MA04-1         con-lstb               (0.15 4)              R270
+U$17     PCA9306        PSOP-8         SparkFun-DigitalIC     (0.6 4.1)             R270
+U1       MPU-6000QFN-24 QFN-24-TESTING SparkFun-Sensors       (0.7 4.55)            R90
